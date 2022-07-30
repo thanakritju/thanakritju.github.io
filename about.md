@@ -14,14 +14,14 @@ redirect_from:
 <!--author-->
 
 
-## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+## Blogs
+New to blogger, any feedbacks are welcome!!
 
 <!--posts-->
 
 
-## An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
+## Silly projects
+Start writing code long time ago, with silly games.
 
 <!--projects-->
 
