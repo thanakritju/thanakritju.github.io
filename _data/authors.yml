@@ -19,9 +19,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         thanakritjutha
     github:          thanakritju
-    facebook:        tanakridza
+    linkedin:        thanakrit-juthamongkhon-184425192
     email:           thanakrit.ju.work@gmail.com
     # rss:             https://<url>/feed.xml
     # google:          <number>
@@ -50,7 +49,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
