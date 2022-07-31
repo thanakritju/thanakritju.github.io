@@ -21,7 +21,6 @@ New to blogger, any feedbacks are welcome!!
 
 
 ## Silly projects
-Start writing code long time ago, with silly games.
 
 <!--projects-->
 

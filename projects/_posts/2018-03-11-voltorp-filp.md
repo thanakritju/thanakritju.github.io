@@ -1,7 +1,8 @@
 ---
-layout:     post
-title:      Voltorp Flip
-tags:       [project]
+layout: post
+title: Voltorp Flip
+tags: [project]
+image: /assets/img/projects/voltorb-flip.jpeg
 ---
 
 # Voltorp Flip
