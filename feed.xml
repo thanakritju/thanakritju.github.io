@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-07-31T15:19:47+00:00</updated><id>/feed.xml</id><title type="html">Gwan</title><subtitle>A self-taught passionate software developer interested in infosec and writing clean code.
+</subtitle><author><name>Thanakrit Gwan Juthamongkhon</name><email>thanakrit.ju.work@gmail.com</email></author><entry><title type="html">Leetcode with Golang</title><link href="/projects/2021-08-06-leetcode/" rel="alternate" type="text/html" title="Leetcode with Golang" /><published>2021-08-06T00:00:00+00:00</published><updated>2022-07-31T15:19:43+00:00</updated><id>/projects/leetcode</id><content type="html" xml:base="/projects/2021-08-06-leetcode/"><![CDATA[<p>After working with <a href="https://www.thoughtworks.com/">Thoughtworks</a> and learning a lot about <a href="https://martinfowler.com/bliki/TestDrivenDevelopment.html">TDD</a> and writing clean code. Hoping into the world of competitive programing has been on my to-do list since forever. Why don’t practice both of them at the same time? That is the starting point of the project.</p>
+
+<p>I chose <a href="https://go.dev/">Golang</a> because I always wanted to learn this language as I don’t get to use it in my day-to-day work. It turns out to be a good language for understanding algorithms because unless <strong>C++</strong> or <strong>Python</strong> that are quite popular in the field and come with strong standard libraries, you get to implement a lot of algorithms by yourself which is very rewarding.</p>
+
+<p>I love writing the tests first before writing my code, not only because I wanted to practice TDD but it just makes the feedback loop a lot faster compared to when you submit to the <a href="https://leetcode.com/">leetcode website</a>. When you get rejected because you write your code wrongly, all you need to do is just adding another test case alongside with your test cases, you can confidently write/modify your code and make sure it does not break the existing ones without the need of resubmitting into the website again.</p>
+
+<p>One thing I could have done it better about this project is that redoing the problems with different approaches, I tend to not come back to the problems that I have solved, I tend to treat it as a game or a mission that I need to solve, after finishing I feel accomplished and move on to the next puzzle, the same way as I play video games. I lost a lot of benefits in understanding problems better, finding faster solutions and truely master the algorithms.</p>
+
+<p>Second thing that I hope I can improve is trying to find best solution for a problem at very start, I should have started with a simple solution, understanding why it does not work in particular conditions and evolving the solution into a better one. The same way that you need to demonstrate in common tech interview.</p>
+
+<h2 id="test-report">Test report</h2>
+<p>Test coverage report can be found in <a href="https://thanakritju.github.io/leetcode">here</a></p>
+
+<h2 id="source-code">Source Code</h2>
+<p><a href="https://github.com/thanakritju/leetcode">https://github.com/thanakritju/leetcode</a></p>]]></content><author><name>Thanakrit Gwan Juthamongkhon</name><email>thanakrit.ju.work@gmail.com</email></author><category term="projects" /><category term="project" /><category term="blog" /><summary type="html"><![CDATA[After working with Thoughtworks and learning a lot about TDD and writing clean code. Hoping into the world of competitive programing has been on my to-do list since forever. Why don’t practice both of them at the same time? That is the starting point of the project.]]></summary></entry><entry><title type="html">จากเด็กที่เกลียดภาษาอังกฤษ จนมาเป็นคนที่ใช้ภาษาอังกฤษในการทำงานทุกวัน กับวิธีการเรียนภาษาอังกฤษฉบับของเค้า</title><link href="/blog/2020-11-07-learning-english-journey/" rel="alternate" type="text/html" title="จากเด็กที่เกลียดภาษาอังกฤษ จนมาเป็นคนที่ใช้ภาษาอังกฤษในการทำงานทุกวัน กับวิธีการเรียนภาษาอังกฤษฉบับของเค้า" /><published>2020-11-07T00:00:00+00:00</published><updated>2022-07-31T15:19:43+00:00</updated><id>/blog/learning-english-journey</id><content type="html" xml:base="/blog/2020-11-07-learning-english-journey/"><![CDATA[<p class="figure"><img src="/assets/img/blog/english-journey.jpeg" alt="english-journey" class="lead" width="1440" height="836" loading="lazy" />
+ภาพโดย Steve Buissinne จาก Pixabay</p>
+
+<p>สวัสดีครับ ผมชื่อกวั๋น ณ ปัจจุบันในวันที่เขียนบทความทำงานเป็น Software Development Consultant อยู่ที่ บริษัท <a href="https://www.thoughtworks.com">Thoughtworks</a> เป็นบริษัทนานาชาติที่มีออฟฟิตอยู่ทั่วโลก ลูกค้าที่ผมทำงานด้วยจะเป็นชาวต่างชาติทั้งหมด ผมสามารถสื่อสารโดยใช้ภาษาอังกฤษได้ไม่เคยมีปัญหาในการฟังใครไม่รู้เรื่องหรือคนอื่นฟังผมไม่รู้เรื่อง ต่อไปผมจะเล่าประวัติสมัยก่อนตอนที่ผมเด็ก ใครไม่อยากอ่านประวัติอันน่าเบื่อของผมข้ามไปที่<a href="#มาลองมองภาษาอีกมุมหนึ่ง">ย่อหน้า</a>ถัดไปได้เลยนะครับ</p>
+
+<h3 id="ประวัติคร่าวๆ-ของผู้เขียน">ประวัติคร่าวๆ ของผู้เขียน</h3>
+<p>ผมเป็นต่างจังหวัดเด็กที่เกลียดภาษาอังกฤษครับ ตอนเด็กๆผมชอบคณิตศาสตร์มากเพราะผมทำมันได้ดีกว่าด้านอื่นๆ ตอนนั้นผมคิดว่าเราสามารถทำโจทย์เลขแล้วได้คะแนนเต็มได้ แต่เราไม่สามารถทำข้อสอบภาษาไทยหรือภาษาอังกฤษได้คะแนนเต็มได้หรือได้แต่ยากมากๆ โดยความที่อาจจะเป็นคน Perfectionist ทำให้ผมต่อต้านอังกฤษมาตั้งแต่เด็ก จำได้ว่าสมัยมัธยมต้นคุณพ่อส่งไปเรียนภาษาอังกฤษอยู่หลายที่กับครูหลายๆท่าน ไม่เคยรู้สึกว่าตัวเองเก่งภาษาอังกฤษขึ้นเลย เพราะเราก็ยังฟังภาษาอังกฤษไม่ออกเหมือนเดิม พอขึ้นมัธยมปลายก็ย้ายเข้ามาอยู่ในเมืองใหญ่ของจังหวัดหนึ่งในภาคใต้ ได้รู้จักกับระบบกวดวิชา ก็ตามกระแสแหละครับสมัยนั้นลงเรียนคุณครูสมศรีไว้ จำได้ว่ามีทั้งหมด 20 ครั้ง เข้าไปแค่ 6 ครั้งรู้สึกเปลืองตังคุณพ่อมาก ทุกวันนี้แกยังไม่น่าจะรู้ ฮ่าๆ พอมองย้อนกลับไปมันมีเหตุผลอยู่ไม่กี่ข้อหรอกครับเพราะตอนนั้นเราก็ยังไม่ได้ชอบภาษาอังกฤษเพราะไม่งั้นก็คงเรียนครบไปแล้วใช่มั้ยหล่ะครับ ถ้าเพื่อนตอนมัธยมผมมาอ่านก็คงจะทราบว่าภาษาอังกฤษผมอ่อนแอแค่ไหน</p>
+
+<p>จุดเปลี่ยนของผมเกิดขึ้นเหมือนตอนมหาวิทยาลัยเมื่อผมต้องเรียนที่คณะวิศวะผมมีความสุขมากที่ไม่จำเป็นต้องเรียนวิชาที่ผมไม่ชอบตั้งแต่สมัยก่อน อาทิ เช่น ชีวะ สังคม ภาษาไทย แต่มันยังมีเจ้าภาษาอังกฤษที่มาหลอกหลอนผมถึงมหาวิยาลัย พี่ๆในมหาลัยมีแต่คนบอกว่า อ่านฟิสิกส์กับเลขเยอะๆนะ ก่อนหน้าสอบเดือนนึงเลย ส่วนภาษาอังกฤษไม่ต้องอ่านหรอกไม่ยาก ใครได้ก็ได้ ใครไม่ได้ก็ไม่ได้เลย ผมได้ยินคำนี้แล้วด้วยความที่เป็น Perfectionist ผมตัดสินใจที่จะทุ่มเทกับภาษาอังกฤษเป็นครั้งแรกในชีวิต เพราะมันคือสิ่งเดียวที่อาจจะถ่วงเกรดผมได้ในตอนนั้น เลยอ่านภาษาอังกฤษแบบทุ่มสุดตัวล่วงหน้าเป็นเดือนๆ แต่สุดท้ายก็ตามที่รุ่นพี่บอก มันทำอะไรไม่ได้จริงๆ ผมลงเอยได้ C+ (2.5) วิชาภาษาอังกฤษของเทอมแรกไป แต่เราก็บอกกับตัวเองไว้ว่าเทอมหน้าเราเอาใหม่ ตั้งแต่นั้นมาก็พยายามทำทุกอย่างเป็นภาษาอังกฤษอย่างเช่น จากที่เราชอบดูพากษ์เกม Dota เป็นภาษาไทยเราก็ดูเป็นภาษาอังกฤษ มือถือก็เปลี่ยนเป็นภาษาอังกฤษ ดูอะไรใน Youtube ก็เป็นภาษาอังกฤษคุณเชื่อหรือไม่ครับว่าผมทำแบบนั้นมาตลอด 4 ปีในมหาลัยจากดูภาษาอังกฤษที่ต้องพึ่งพา subtitle ไทยบ้างอังกฤษบ้าง ตั้งแต่ตอนไหนไม่รู้ผมก็สามารถฟังอังกฤษรู้เรื่องโดยไม่ต้องใช้ subtitle อีกต่อไป ผมสามารถเข้าไปดู youtube อะไรก็ตามที่ผมอยากดูแล้วผมก็ดูรู้เรื่อง ผมไม่รู้ว่าตั้งแต่ตอนไหนผมชอบภาษาอังกฤษเข้าไปเสียแล้ว ก็เลยอยากเขียนบทความนี้มาเพื่อนเป็นกำลังใจให้คนที่อยากเก่งภาษาอังกฤษ คุณอาจจะเจอคนรอบตัวของคุณเก่งภาษาอังกฤษมากๆแต่ผมจะบอกเลยครับว่า มันตามทันกันได้ ถ้าคุณทำมันถูกวิธีคุณอาจจะใช้เวลาไม่ถึงสี่ปีแบบผมก็ได้ แล้วในย่อหน้าต่อๆ ไปผมจะเล่าบทสรุปของการลองผิดลองถูกของผมตลอดสี่ปีในมหาวิทยาลัย และมันคือสิ่งที่ผมกำลังทดลองอยู่กับตัวเองด้วยภาษาญี่ปุ่น</p>
+
+<h3 id="มาลองมองภาษาอีกมุมหนึ่ง"><a name="skip"></a>มาลองมองภาษาอีกมุมหนึ่ง</h3>
+<p>ในย่อหน้านี้เราจะพูดถึงความเข้าใจของภาษาบางประการสำหรับคนที่คิดว่าการสำเนียงหรือการออกเสียงมีความสำคัญที่สุด และผมก็ไม่ได้บอกว่ามันไม่สำคัญนะครับมันค่อนข้างสำคัญกันเลยทีเดียวแต่มีอีกหลายสิ่งที่สำคัญไม่แพ้กัน ผมจะพูดถึงบางอย่างในย่อหน้านี้ครับ “กุนกานกระโกรกกี้กู๊เกืองกั้ยกั้บ” ผมเชื่อว่าคุณสามารถเข้าใจประโยคนี้ได้ไม่ยาก ผมต้องการจะสื่ออะไร ภาษาเป็นสิ่งที่ค่อนข้างเกี่ยวกับบริบท ประสบการณ์ และวัฒนธรรมค่อนข้างมาก ถ้าเค้าเริ่มพูดแล้วเราฟังไม่รู้เรื่องในตอนนั้นทั้งหมดทันที หมายความว่าเราก็จะไม่สามารถเข้าใจคู่สนทนาได้เลย การเข้าใจภาษา การสามารถเดาได้ว่าคู่สนทนาจะพูดอะไรมีความสำคัญค่อนข้างมาก และการที่จะสามารถทำแบบนั้นได้จำเป็นต้อง<strong>ฟังเยอะมาก</strong></p>
+
+<p>ใช่ครับ คนที่กำลังคิดว่ามีความลำบากในเรื่องการพูด คนที่ต้องคิดอยู่ในหัวเป็นภาษาไทยว่าจะตอบอะไร ส่วนใหญ่ฝรั่งก็จะไม่เข้าใจอยู่ดีต่อให้เราออกเสียงถูกต้อง เพราะมันไม่ใช่สิ่งที่ฝรั่งเค้าพูดกัน ส่วนใหญ่ วิธีที่ถูกต้องในการพูดคือ พูดสิ่งที่เค้าพูดกัน นั้นหมายถึงการฟังมหาศาลที่เราจำเป็นต้องทำ สำหรับคนที่ยังฟังภาษาอังกฤษไม่ออก ความโชคดีของคุณคือคุณสามารถฝึกการฟังและมีโอกาศที่เราจะพูดในแบบที่ถูกต้องได้ง่ายในอนาคตเพราะตอนนี้คุณยังไม่ได้ถูกฝึกการพูดมาเยอะ ในทางตรงกันข้ามกับคนที่ฟังภาษาอังกฤษออกอยู่แล้วและสามารถใช้สื่อสารอยู่แล้ว และอาจจะไม่มีปัญหาในการสื่อสารมากนักแต่ยังรู้สึกว่าภาษาเราไม่ดีตามที่หวังไว้ อาจจะต้องลองดูเวลาเราฟังที่เราคิดว่ารู้เรื่องนั้นความจริงแล้วเรารู้เรื่องแค่ไหน เราสามารถเขียนทุกอย่างที่เค้าพูดออกมาได้รึเปล่า ผมรวมถึงเสียง -s, -es, -ed, -th และอีกมากมายด้วยนะครับ ถ้ายังไม่สามารถทำได้ แสดงว่ามันยังพอมีช่องทางให้เราสามารถพัฒนาเรื่องการฟังได้อีกครับ แล้วเวลาจะพูดให้เราพูดจากการที่เราจำได้จากที่เราฟังมาอย่างมหาศาล</p>
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/4ejpt6o11Wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+<p class="figure">ลองเอาไว้ใช้สำหรับคนที่อยากทดสอบภาษาอังกฤษของตัวเอง ถ้าคุณฟังเข้าใจโดยไม่เปิดซับ บทความนี้คงไม่จำเป็นสำหรับคุณแล้วแหละครับ 
+ยินดีด้วยคุณได้ข้ามผ่านมาสู่อีกโลกแล้วครับ โลกที่คุณสามารถหาคำตอบเกือบทุกอย่างที่โลกภาษาไทยไม่ได้ให้คุณ</p>
+
+<h3 id="แล้วเราจะพัฒนาภาษาอังกฤษหรือภาษาอื่นยังไงหล่ะ-">แล้วเราจะพัฒนาภาษาอังกฤษหรือภาษาอื่นยังไงหล่ะ ?</h3>
+<p>จากประสบการณ์ของผมคือ ใช้ภาษานั้นเยอะๆครับ ฟังเหมือนง่ายนะครับ ถ้าผมบอกให้ฟังภาษาอังกฤษวันละหนึ่งชั่วโมงติดต่อกัน 5 ปี ทุกวัน มันไม่ง่ายเลยสำหรับคนที่ไม่มีเป้าหมายที่แน่วแน่ว่าอยากทำอะไร ยกตัวอย่างเช่น ผมอยากดูหนังโดยไม่ต้องพึ่งซับได้ มีฝรั่งที่ชอบอยากรู้ว่าเค้าทวิตอะไร อยากพูดภาษาอังกฤษได้ ทั้งหมดนั้นมีพื้นฐานมาจากการฟังทั้งนั้นครับ ถ้าเราสามารถหาสื่อที่<strong>สร้างจากเจ้าของภาษาเพื่อไว้สำหรับเจ้าของภาษา</strong>จะดีที่สุดครับ เช่นเปรียบเทียบ วิดีโอสอนภาษาอังกฤษ กับ late night show ผมจะแนะนำเป็นอย่างหลังมากกว่าเพื่อใช้ในการฝึกฟังครับ</p>
+
+<p>และเวลาฟังไม่ควรเปิดซับนะครับหรือถ้าเลี่ยงไม่ได้ก็พยายามอย่ามอง ไม่งั้นเราจะได้สกิลการอ่านมาแทน แต่ในการสนทนาจริงมันไม่ได้มีซับให้เรา ถ้าเราฟังไม่เข้าใจโดยไม่ใช้ซับ แสดงว่าเรายังไม่พร้อมกับการสื่อสารขนาดนั้น ขอให้ไม่ต้องรีบและฟังต่อไปทุกวัน ที่นี้ปัญหาไม่ใช่การที่คุณฟังวันนึงมากเท่าไหร่ คุณท่องศัพท์ต่อวันมากแค่ไหน แต่ปัญหาคือคุณสามารถทำสิ่งเหล่านั้นไปตลอดชีวิตรึเปล่า ซึ่งในความเป็นจริงมันแทบจะเป็นไปไม่ได้เลยให้คุณอ่านหนังสือไวยากรณ์ติดต่อกันเป็นเดือน นั่นเป็นเหตุผลที่ผมแนะนำให้เริ่มจากการฟัง โดยเฉพาะพวกวิดีโอเพราะมันน่าสนใจและภาพจะช่วยให้เราเข้าใจมากขึ้น ถ้าใครคิดว่าสายไปแล้วกับการเรียนภาษา อย่าลืมนะครับเรามีเวลาอีกทั้งชีวิต เริ่มวันนี้แล้วคุณจะไม่เสียดายแม้แต่วินาทีเดียว</p>
+
+<h3 id="ดูอะไรดีหล่ะ-">ดูอะไรดีหล่ะ ?</h3>
+<ul>
+  <li><strong>เลือกตามความสนใจ</strong> สำหรับผมเรื่องนี้คงแตกต่างกันไปในแต่ละคน สำหรับผม ผมชอบเล่นเกม ผมก็จะดูจำพวกภาคเกมเป็นภาษาอังกฤษ เป็นหลัก บางคนอาจจะชอบฟังเพลง ก็อาจจะไปหาบทสัมภาษณ์ศิลปินที่เราชอบได้</li>
+</ul>
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/NWDBbJUBpzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+<p class="figure">PewDiePie น่าจะไม่มีใครไม่รู้จัก แสดงตลกบนเว็บชาวสวีเดนและเป็นวิดีโอโปรดิวเซอร์ เล่นเกม Among Us</p>
+
+<ul>
+  <li><strong>เลือกสิ่งที่ตัวเองรู้อยู่แล้ว</strong> ถ้าเรามีความเข้าใจมันดีอยู่แล้วก็จะทำให้การเรียนภาษาเราดียิ่งขึ้น เช่น เราดูบอลอยู่แล้วเรารู้จักนักเตะ เรารู้ว่านักเตะคนนี้มีนิสัยแบบนี้ แล้วเราไปดูภาคบอลหรือวิเคราะห์บอลเป็นภาษาอังกฤษ เราจะได้ใช้เวลาว่างของเราเรียนภาษาอังกฤษไปในตัวด้วย หรือดูหนังที่เราเคยดูภาษาไทยจบไปแล้ว เรารู้เรื่องอยู่แล้วเป็นต้น</li>
+</ul>
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/0imX_xg-5wI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+<p class="figure">อีกหนึ่ง late night show</p>
+
+<ul>
+  <li><strong>อะไรก็ได้ขอให้เราได้ฟังภาษาเยอะๆ</strong> แต่เน้นเป็นจำพวกสื่อที่สร้างจากเจ้าของภาษาเพื่อไว้สำหรับเจ้าของภาษา และหาอันที่เราสนุกกับมัน เราสามารถทำมันได้เป็นระยะเวลานาน ทั้งนี่ทั้งนั้น เราควรจะหาสื่อหลายๆประเภทมาฟังเพื่อเพิ่มวงคำศัพท์ของเราให้มากขึ้น รวมถึงหลายๆ สำเนียงด้วยเช่นกัน</li>
+</ul>
+
+<h3 id="แล้วต้องทำนานแค่ไหนถึงจะใช้งานจริงได้-">แล้วต้องทำนานแค่ไหนถึงจะใช้งานจริงได้ ?</h3>
+<p>จนกว่าเราจะสามารถเปิดอะไรก็ตามที่เป็นภาษาอังกฤษและเราสามารถเข้าใจมันหมดจดจริงๆ สามารถเขียนลงมาว่าเค้าพูดอะไรบ้างแบบถูกต้องเป๊ะๆ โดยทั่วไปจะใช้เวลาแต่ต่างกันไปในแต่ละคนขึ้นอยู่กับเราฟังเยอะแค่ไหนในแต่ละวัน ส่วนตัวผมก็คงราวๆ 4 ปี กว่าจะถึงจุดที่ว่าได้ เล่นเกมภาษาอังกฤษได้ อ่านนิยายได้ ทำสิ่งที่อยากทำเป็นภาษาอังกฤษได้</p>
+
+<p>ใครอ่านมาถึงตรงนี้ก็ขอขอบคุณที่อ่านและหวังว่ามันจะมีประโยชน์ต่อทุกคนที่อุส่าห์เสียเวลา สำหรับคนที่คิดว่าเราลงแรงแล้วเราจะเห็นผลทันที การเรียนภาษามันไม่เหมือนการเรียนอย่างอื่น ภาษาอังกฤษมันจะเป็นคำว่า language acquisition หรือแปลเป็นไทยว่า “การได้มาซึ่งภาษา” มากกว่าที่จะเป็น language learning ขอให้คุณทำมันอย่างมีความสุข อย่างยั่งยืน และคุณจะรู้สึกไม่เสียดายที่ใช้เวลาเหล่านี้ไปรู้ตัวอีกทีคุณก็คงจะรักภาษาอังกฤษไปแล้วหล่ะ</p>
+
+<p>ใครมีคำถามหรือข้อติชมอะไรสามารถส่งมาถึงผมได้ ครั้งหน้าจะพูดถึงการทำมันให้มีประสิทธิภาพมากขึ้นกับโดยใช้เทคเรื่อง <a href="https://en.wikipedia.org/wiki/Spaced_repetition">spaced repetition</a> และ <a href="https://en.wikipedia.org/wiki/Language_immersion">immersion</a></p>]]></content><author><name>Thanakrit Gwan Juthamongkhon</name><email>thanakrit.ju.work@gmail.com</email></author><category term="blog" /><category term="blog" /><summary type="html"><![CDATA[ภาพโดย Steve Buissinne จาก Pixabay]]></summary></entry><entry><title type="html">My CTF Journey, What is RSA and How to Break Vulnerable RSAs</title><link href="/blog/2019-02-13-my-understanding-of-RSA/" rel="alternate" type="text/html" title="My CTF Journey, What is RSA and How to Break Vulnerable RSAs" /><published>2019-02-13T00:00:00+00:00</published><updated>2022-07-31T15:19:43+00:00</updated><id>/blog/my-understanding-of-RSA</id><content type="html" xml:base="/blog/2019-02-13-my-understanding-of-RSA/"><![CDATA[<p>This article is about an RSA-related problem from picoCTF called “<strong>Super Safe RSA</strong>”. In SuperSafe RSA we intercept an encrypted message and retrieve some more information about the RSA parameters (which will be explained later) that were used to create the key. The problem provides information as follows.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>c: 11088196587221862692269015178462414565206765106339440620686816517628928158754822
+n: 24230166694711187941551255323020959293282718052334221740564929612586123885947819
+e: 65537
+</code></pre></div></div>
+
+<p>For those who do not know RSA, RSA (Rivest–Shamir–Adleman) is a modern cryptographic tool which is widely used in software that transmits data over the internet.</p>
+
+<p>RSA is an asymmetric cryptosystem, meaning that it uses pairs of keys : a public key which can be sent to others and a private key which needs to be kept privately.</p>
+
+<p>For example, John and I want to talk to each other securely over the internet. We then generate a pair of keys (public and private) for each of us and exchange our public keys.</p>
+
+<p>I use John’s public key to encrypt a text that I want to send to John and I know that only John who has the paired private key can decrypt it. John then decrypts the encrypted text and gets the plain text. John can send me back a message by using my public key to encrypt a text.</p>
+
+<p>In this fashion, Mark who is a hacker that intercepts our messages can not interpret the messages because Mark does not have our private keys. That mainly is how data transmission works nowadays.</p>
+
+<p>We can create our own public and private keys by generating 2 huge prime numbers <strong>p</strong> and <strong>q</strong> and multiply them together, we call the product <strong>n</strong>.</p>
+
+<p>We calculate the <a href="https://en.wikipedia.org/wiki/Euler%27s_totient_function">totient</a> of <strong>n</strong> <code class="language-plaintext highlighter-rouge">T(n)</code> by calculating <code class="language-plaintext highlighter-rouge">lcm(p-1,q-1)</code> or <code class="language-plaintext highlighter-rouge">(p-1)*(q-1)</code> if p and q are really big prime numbers.</p>
+
+<p>We then pick e such that <code class="language-plaintext highlighter-rouge">1 &lt; e &lt; T(n)</code> and <code class="language-plaintext highlighter-rouge">gcd(n,e)=1</code> , the public key is <code class="language-plaintext highlighter-rouge">(n,e)</code>.</p>
+
+<p>We can calculate <code class="language-plaintext highlighter-rouge">d*e = 1 (mod T(n))</code> or <code class="language-plaintext highlighter-rouge">d = (k*T(n)+1)/e (with no remainder)</code> for some integer <strong>k</strong>, and <strong>d</strong> is our private key! Your full private key is <code class="language-plaintext highlighter-rouge">(n,d)</code>.</p>
+
+<p>To send a message, the person who needs to send a message <strong>m</strong> has to calculate <code class="language-plaintext highlighter-rouge">c = m^e (mod n)</code> which can then be decrypted by calculating <code class="language-plaintext highlighter-rouge">m = c^d (mod n)</code></p>
+
+<p>For example</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1. p = 3, q =11
+2. n = 33 (3 * 11)
+3. T(n) = (3-1) * (11-1) = 20
+4. pick e = 17 (1 &lt; e &lt; 20) and gcd(17,33) = 1
+5. with k = 11 and d = (11*20+1)/17 = 13
+6. message m = 9, c = 9^17 (mod 33) = 15
+7. cipher c = 15, m = 15^13 (mod 33) = 9
+</code></pre></div></div>
+
+<p>Let’s get back to our challenge, <strong>c</strong> in the information is our cipher text , which is the term that is used to describe an encrypted text. <strong>n</strong> is our modulus <strong>e</strong> is also part of the public key. We basically got the public key and the encrypted message.</p>
+
+<p>In the real world, <strong>n</strong> will be very big and cannot be factored to get <strong>p</strong> and <strong>q</strong> (if <strong>n</strong> could be factored, the cryptosystem would be vulnerable). However in this case we can use some online tools to factor <strong>n</strong>. I used <a href="https://www.alpertron.com.ar/ECM.HTM">https://www.alpertron.com.ar/ECM.HTM</a> to factor it and managed to get these two primes:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>c: 11088196587221862692269015178462414565206765106339440620686816517628928158754822
+n: 24230166694711187941551255323020959293282718052334221740564929612586123885947819
+e: 65537
+p: 153561567462691443687583193642003689231 (39 digits)
+q: 157787961500184797140745224882660195760549 (42 digits)
+</code></pre></div></div>
+
+<p>All we need to do now is to calculate <strong>d</strong>, I do this with python and I also need a Third-Party library called <a href="https://gmpy2.readthedocs.io/en/latest/">gmpy2</a> which supports multiple-precision arithmetic, and also has an invert function that can calculate Modular multiplicative inverses. After that, the message can be decrypted using <strong>c</strong>, <strong>d</strong> and <strong>n</strong>:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">gmpy2</span>
+<span class="n">c</span> <span class="o">=</span> <span class="mi">11088196587221862692269015178462414565206765106339440620686816517628928158754822</span>
+<span class="n">n</span> <span class="o">=</span> <span class="mi">24230166694711187941551255323020959293282718052334221740564929612586123885947819</span>
+<span class="n">e</span> <span class="o">=</span> <span class="mi">65537</span>
+<span class="n">p</span> <span class="o">=</span> <span class="mi">153561567462691443687583193642003689231</span>
+<span class="n">q</span> <span class="o">=</span> <span class="mi">157787961500184797140745224882660195760549</span>
+<span class="n">totient</span> <span class="o">=</span> <span class="p">(</span><span class="n">p</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="n">q</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span>
+
+<span class="c1"># Modular multiplicative inverse
+</span><span class="n">d</span> <span class="o">=</span> <span class="n">gmpy2</span><span class="p">.</span><span class="n">invert</span><span class="p">(</span><span class="n">e</span><span class="p">,</span><span class="n">totient</span><span class="p">)</span>
+
+<span class="c1"># decrypt the message
+</span><span class="n">m</span> <span class="o">=</span> <span class="nb">pow</span><span class="p">(</span><span class="n">c</span><span class="p">,</span><span class="n">d</span><span class="p">,</span><span class="n">n</span><span class="p">)</span>
+
+<span class="k">print</span><span class="p">(</span><span class="nb">hex</span><span class="p">(</span><span class="n">m</span><span class="p">)[</span><span class="mi">2</span><span class="p">:])</span>
+</code></pre></div></div>
+
+<p>We have now got the result which can be easily decoded:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>7069636f4354467b7573335f6c40726733725f7072316d33245f353238327d
+</code></pre></div></div>
+
+<p>If you want a challenge, why don’t you decrypt this (hint: you need to find different methods):</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>n: 374159235470172130988938196520880526947952521620932362050308663243595788308583992120881359365258949723819911758198013202644666489247987314025169670926273213367237020188587742716017314320191350666762541039238241984934473188656610615918474673963331992408750047451253205158436452814354564283003696666945950908549197175404580533132142111356931324330631843602412540295482841975783884766801266552337129105407869020730226041538750535628619717708838029286366761470986056335230171148734027536820544543251801093230809186222940806718221638845816521738601843083746103374974120575519418797642878012234163709518203946599836959811
+e: 3
+c: 2205316413931134031046440767620541984801091216351222789180593875373829950860542792110364325728088504479780803714561464250589795961097670884274813261496112882580892020487261058118157619586156815531561455215290361274334977137261636930849125
+</code></pre></div></div>
+
+<p>Or this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>c: 79668267648075558841741892275291469986485547386666233810018570955348780031651951209258019070111906439629962480973363421930500372654794834747975674692309375138013228703075645537546688812778059823604600153327348389690881520188527530968233973893610336984081149546677650192824510618711918823381710276640601685243
+n: 96275797980918882963345367043657421733340282534101148776014734564295712637727404923503716319734045420878507284484460090969525452246560250039670147052641196915510446061504061521391311722706595500157642514832855836250607945916753072930800994769587856028674884853559036747002666862364485439822793774845743934191
+e: 52085916249011396834587688388237446709146177846546078261171222801038631418637759875608400839716348237524884481723011687831537824966874288194554903854287586643313203247128660760043305297541820351592720693986742682505608735361044661986345371523753538137903278162342007340840232199712836261504067981924786187265
+</code></pre></div></div>
+
+<h3 id="references">References</h3>
+<ul>
+  <li>https://picoctf.com/</li>
+  <li>https://www.alpertron.com.ar/</li>
+  <li>https://en.wikipedia.org/wiki/RSA_(cryptosystem)</li>
+</ul>]]></content><author><name>Thanakrit Gwan Juthamongkhon</name><email>thanakrit.ju.work@gmail.com</email></author><category term="blog" /><category term="blog" /><category term="writeup" /><summary type="html"><![CDATA[This article is about an RSA-related problem from picoCTF called “Super Safe RSA”. In SuperSafe RSA we intercept an encrypted message and retrieve some more information about the RSA parameters (which will be explained later) that were used to create the key. The problem provides information as follows.]]></summary></entry><entry><title type="html">Voltorp Flip</title><link href="/projects/2018-03-11-voltorp-filp/" rel="alternate" type="text/html" title="Voltorp Flip" /><published>2018-03-11T00:00:00+00:00</published><updated>2022-07-31T15:19:43+00:00</updated><id>/projects/voltorp-filp</id><content type="html" xml:base="/projects/2018-03-11-voltorp-filp/"><![CDATA[<p>Long time ago, I played Pokemon Heart Gold on Nintendo DS. There was a mini game called Voltorp Filp. It was pretty interesting so I decided to create my own Voltorp Filp using Javascript.
+In that time, I was studying in petroleum engineering degree. I had never been coding too much. This might be my very first project that introduces Javascipt and makes me love programing.</p>
+
+<h2 id="how-to-play">How to play</h2>
+<p>Clone this project and open index.html or visit my demo <a href="https://thanakritju.github.io/voltorp-flip">link</a></p>
+
+<h2 id="rules">Rules</h2>
+<ol>
+  <li>There is 25 cards with hidden values [0,1,2,3] with randomly distributed.</li>
+  <li>Every columns and rows informs total scores (with black text) and number of zeros (red text).</li>
+  <li>Rules are simple, your score will be calculated by the product of faced-up cards (Meaning that once you filped a 0-value card, you lost).</li>
+  <li>To win the game, you have to flip all non-zero-value cards.</li>
+</ol>
+
+<h2 id="todo">Todo</h2>
+<ul>
+  <li>Refactor the code after working in IT-related field for one year.</li>
+</ul>
+
+<h2 id="source-code">Source Code</h2>
+<p><a href="https://github.com/thanakritju/voltorp-flip">https://github.com/thanakritju/voltorp-flip</a></p>]]></content><author><name>Thanakrit Gwan Juthamongkhon</name><email>thanakrit.ju.work@gmail.com</email></author><category term="projects" /><category term="project" /><summary type="html"><![CDATA[Long time ago, I played Pokemon Heart Gold on Nintendo DS. There was a mini game called Voltorp Filp. It was pretty interesting so I decided to create my own Voltorp Filp using Javascript. In that time, I was studying in petroleum engineering degree. I had never been coding too much. This might be my very first project that introduces Javascipt and makes me love programing.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/projects/voltorb-flip.jpeg" /><media:content medium="image" url="/assets/img/projects/voltorb-flip.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Bouncing Hearts</title><link href="/projects/2018-03-09-bouncing-hearts/" rel="alternate" type="text/html" title="Bouncing Hearts" /><published>2018-03-09T00:00:00+00:00</published><updated>2022-07-31T15:19:43+00:00</updated><id>/projects/bouncing-hearts</id><content type="html" xml:base="/projects/2018-03-09-bouncing-hearts/"><![CDATA[<p>Long time ago, I learned Javascript with p5.js</p>
+
+<h2 id="todo">Todo</h2>
+<ul>
+  <li>Rewind Javascript knowledge.</li>
+  <li>Refactor the code after working on IT-related field for one year.</li>
+</ul>
+
+<h2 id="demo">Demo</h2>
+<p><a href="https://thanakritju.github.io/bouncing-hearts">https://thanakritju.github.io/bouncing-hearts</a></p>
+
+<h2 id="source-code">Source Code</h2>
+<p><a href="https://github.com/thanakritju/bouncing-hearts">https://github.com/thanakritju/bouncing-hearts</a></p>]]></content><author><name>Thanakrit Gwan Juthamongkhon</name><email>thanakrit.ju.work@gmail.com</email></author><category term="projects" /><category term="project" /><summary type="html"><![CDATA[Long time ago, I learned Javascript with p5.js]]></summary></entry></feed>
